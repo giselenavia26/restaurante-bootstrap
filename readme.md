@@ -15,8 +15,8 @@ O **Sabor & Tradição** é um site responsivo de um restaurante fictício desen
 * **Vercel**: Hospedagem e publicação da aplicação web.
 
 ## 🌐 Links do Projeto
-* **Repositório no GitHub:** [INSIRA_O_LINK_DO_SEU_GITHUB_AQUI]
-* **Site Publicado (Vercel):** [INSIRA_O_LINK_DO_VERCEL_AQUI]
+* **Repositório no GitHub:** [https://github.com/giselenavia26/restaurante-bootstrap.git]
+* **Site Publicado (Vercel):** [https://restaurante-opal-five.vercel.app/]
 
 ## 🛠️ Estrutura do Projeto
 ```text
